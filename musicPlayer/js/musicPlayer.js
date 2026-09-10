@@ -22,7 +22,7 @@ $(function () {
 
     // 一些计算所需的变量
     var seekT, seekLoc, seekBarPos, cM, ctMinutes, ctSeconds, curMinutes, curSeconds, durMinutes, durSeconds, playProgress, bTime, nTime = 0;
-    var musicImgsData = ['musicPlayer/img/NeverLand.jpg','musicPlayer/img/OneLastKiss.jpg'];    // 图片地址数组
+    var musicImgsData = ['musicPlayer/img/NeverLand.jpg','musicPlayer/img/OneLastKiss_Asuka.jpg'];    // 图片地址数组
     var musicNameData = ['NeverLand','- - -'];                   // 歌曲名数组
     var artistNameData = ['Youzee','宇多田光'];            // 创作歌手数组
     var musicUrls = ['musicPlayer/mp3/Youzee - NeverLand.mp3','musicPlayer/mp3/宇多田光 - OneLastKiss.mp3'];// 歌曲mp3数组
